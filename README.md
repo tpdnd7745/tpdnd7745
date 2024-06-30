@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
 	
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
@@ -601,7 +601,7 @@
 
 
 
-### Hi there 👋
+
 
 <!--
 **tpdnd7745/tpdnd7745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
